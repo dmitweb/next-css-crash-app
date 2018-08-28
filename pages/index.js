@@ -1,4 +1,5 @@
 const onClick = () => {
+	alert('working');
 	console.log('working');
 }
 
